@@ -42,9 +42,9 @@ ADAS-Cog13 is a refined version of the original cognitive subscale, offering inc
 
 #### Individual-Level Model
 
-$
-\text{ADAS}_{it} = \beta_{0i} + \beta_{1i} \cdot t + \varepsilon_{it}
-$
+$$
+ADAS_{it} = \beta_{0i} + \beta_{1i} \cdot t + \varepsilon_{it}
+$$
 
 Where:  
 - $\beta_{0i}$ : baseline cognitive score for patient $i$  
