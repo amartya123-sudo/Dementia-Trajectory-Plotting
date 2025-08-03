@@ -69,7 +69,7 @@ Where:
 #### Forecasting Model
 
 $$
-\text{ADAS}_{t+k} = \beta_{0i} + \beta_{1i} \cdot (t + k \cdot \Delta t)
+ADAS_{t+k} = \beta_{0i} + \beta_{1i} \cdot (t + k \cdot \Delta t)
 $$
 
 Where:  
